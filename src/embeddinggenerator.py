@@ -10,11 +10,8 @@ from llama_index import (
     StorageContext,
     load_index_from_storage,
 )
-
-SECRET_API_TOKEN = os.environ["SECRET_TOKEN"]
-os.environ["OPENAI_API_KEY"] = SECRET_API_TOKEN
-openai.api_key = os.environ["OPENAI_API_KEY"]
-
+SECRET_API_TOKEN = os.environ["SECRET_API_TOKEN"]
+openai.api_key = SECRET_API_TOKEN
 
 @st.cache_resource
 def indexgenerator(indexPath, documentsPath):
