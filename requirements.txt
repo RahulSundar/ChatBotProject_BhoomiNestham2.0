@@ -2,6 +2,7 @@ altair
 llama-index
 transformers
 pypdf
+nltk
 langchain
 spacy
 openai
@@ -26,14 +27,8 @@ openai
 faiss-cpu
 unstructured
 htbuilder
-gtts
-soundfile
-pydub
-audiorecorder
 PyMuPDF
 unidecode
-arxiv==0.5.3
-tex2py
 click
 dateparser
 expiringdict
