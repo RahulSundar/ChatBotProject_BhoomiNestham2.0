@@ -2,6 +2,7 @@ import os, sys
 import time
 import openai
 import logging
+import streamlit as st
 
 from llama_index import (
     VectorStoreIndex,
@@ -14,6 +15,8 @@ SECRET_API_TOKEN = os.environ["SECRET_TOKEN"]
 os.environ["OPENAI_API_KEY"] = SECRET_API_TOKEN
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
+
+@st.cache_resource
 def indexgenerator(indexPath, documentsPath):
 
     # check if storage already exists
