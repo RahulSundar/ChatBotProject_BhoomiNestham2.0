@@ -16,9 +16,6 @@ encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
 from embeddinggenerator import *
 from chatbotfunctions import *
 
-# -------------------AUDIO FUNCTIONALITY-------------------------
-from mutagen.wave import WAVE
-
 # --------------------HTML BUILDER AND FUNCTIONALITIES-----------------------------------#
 from htbuilder import (
     HtmlElement,
@@ -38,8 +35,6 @@ from htbuilder.units import percent, px
 from htbuilder.funcs import rgba, rgb
 
 import streamlit as st
-from audiorecorder import audiorecorder
-
 
 from PIL import Image
 
@@ -141,15 +136,17 @@ with st.sidebar:
 # ---------------------------------------------------------#
 # -----------------LOAD THE DOCUMENT INDICES-----------------#
 # ---------------------------------------------------------#
-st.title("Please let me know what your queries are!")
+st.title("BhoomiNestham 2.0- The Gen-AI Chatbot to address your grievances")
 
-
-if "messages" not in st.session_state.keys():
-    st.session_state.messages = []
-
+if "messages" not in st.session_state.keys(): # Initialize the chat message history
+    st.session_state.messages = [
+        {"role": "assistant", "content": "Let me know about your grievance!"}
+    ]
 # ------------------------------------------------------------------------------#
 # -------------------------QUERY AUDIO INPUT - RETURNING TEXT QUERY-------------#
 # ------------------------------------------------------------------------------#
+
+
 
 if st.session_state.messages != []:
     for message in st.session_state.messages[::-1]:
