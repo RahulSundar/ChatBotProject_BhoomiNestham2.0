@@ -1,0 +1,163 @@
+Andhra Pradesh Rights in Land and Pattadar Pass Books Act, 1971
+(Act No. 26 of 1971)
+Last Updated 19th March, 2020 [ap212]
+
+LEGISLATIVE HISTORY
+
+
+An Act to consolidated and amend the law relating to the [ [Rights in Land] and Pattadar Pass Books] in the State of Andhra Pradesh.
+Be it enacted by the Legislature of the State of Andhra Pradesh in the Twenty second Year of the Republic of India and subsequent amendments in the Thirty-First Year and Fortieth year and Forty-Fourth year of Republic of India as follows:
+1. Short title, extent and commencement. - (1) This Act may be called the Andhra Pradesh [ [Rights in Land] and Pattadar Pass Books] Act, 1971.
+(2) It extends to the whole of the State of Andhra Pradesh.
+(3) It shall come into force in such area or areas and on such date or dates as the Government may, by notification, from time to time specify in this behalf.
+
+Object & Reasons
+
+2. Definitions. - In this Act, unless the context otherwise requires:
+[(1) "Bhudhaar" means the unique identification number assigned to any parcel of land, as contained in the Record of Rights, in such manner as may be prescribed;
+
+(1-a) "Bhudhaar Card" means a document prepared in such format as may be prescribed describing a parcel or parcels of land as contained in the Record of Rights, and specifying the Bhudhaar Number or Numbers assigned to such parcel or parcels, alongwith the stamp of date and time at which such card has been prepared, and, includes e-Bhudhaar Card and m-Bhudhaar Card;
+
+(1-b) "e-Bhudhaar Card" means a Bhudhaar Card which is generated and maintained in an electronic form;
+
+(1-c) "m-Bhudhaar Card" means a Bhudhaar Card which is generated and maintained in an electronic form and which can be downloaded and used on a mobile device;
+
+(1-d) "Permanent Bhudhaar" means a Bhudhaar Number assigned form a distinct series to indicate that the Geo-referencing of the parcel of land or lands appurtenant to the property has been completed;
+
+(1-e) "Temporary Bhudhaar" means a Bhudhaar Number assigned from a distinct series to indicate that the Geo-referencing of the parcel of land or lands appurtenant to the property has not been completed;]
+
+[(1-f)] "Certified copy" or "Certified extract" means a copy of extract, as the case may be, certified in the manner prescribed by Section 76 of the Indian Evidence Act, 1872 (Central Act 1 of 1872);
+
+[(2) "Collector" means the Collector of a district and includes "Joint Collector";]
+
+[(2a) "Commissioner" means the Commissioner, Survey Settlements and Land Records;]
+
+[ [(2aa)] "Credit agency" means any Banking Company as defined in the Banking Regulation Act, 1949, the State Bank of India and its subsidiaries, a corresponding new bank, a Regional Rural Bank, a Co-operative Bank or Credit Society by whatever name called, Agricultural Development Bank and includes any other agency or individual the main object of which is to lend money;]
+
+(3) "Government" means the State Government;
+
+(4) "Land" means land which is used or is capable of being used for purposes of agriculture, including horticulture but does not include land used exclusively for non-agricultural purposes;
+
+[(4a) "Mandal Revenue Officer" means the Officer-in-charge of a Revenue Mandal and includes any Officer of the Revenue Department authorised by the Commissioner to perform the functions of the Mandal Revenue Officer under this Act;]
+
+(5) "Notification" means a notification published in the Andhra Pradesh Gazette [or the District Gazette] and the word "notified" shall be construed accordingly;
+
+(6) "Occupant" means a person in actual possession of land, other than a tenant or a unsufructuary mortgagee;
+
+[(6a) "Owner" means a person who has permanent and heritable rights of possession on the land which can be alienated and includes the holder of a patta issued to him as a landless poor person;]
+
+[(6b) "Title deed and pass book" means the title deed and pass book issued under Section 6-A ;]
+
+(7) "Pattadar" includes every person who holds land directly under the Government under a patta whose name is registered in the land revenue accounts of the Government as pattadar [xxx] and who is liable to pay land revenue;]
+
+(8) "Prescribed" means prescribed by rules made under this Act;
+
+(9) "Record of Rights" means records prepared and maintained under the provisions, or for the purposes of this Act;
+
+[(10) 'Recording authority' means such officer of the Revenue Department as may be notified by the Collector to be the recording authority for the purposes of this Act or such officer of the Registration Department as may be specified for the purpose of causing provisional mutation in Revenue Records electronically;].
+
+[(10a) "Revenue Divisional Officer" means the Deputy Collector in-charge of Revenue Division and includes a Sub-Collector or an Assistant Collector]
+
+(11) "Tenant" means:
+
+(i) a lessee under a tenancy agreement, express or implied; or
+
+(ii) a person who is or is deemed to be a tenant under any law for the time being in force;
+
+(12) "Village" means any local area which is recognised as a village in the revenue accounts of the Government.
+
+3. Preparation and updating of record of rights in all lands. - (1) As soon as may be after the commencement of this Act in any area, there shall be [prepared and brought up-to-date from time to time by the recording authority] in such manner, and thereafter maintained in such form as may be prescribed, a record of rights in all lands in every village in that area and such record of rights shall contain the following particulars, namely:
+(a) the names of all persons who are owners, pattadars, mortgagees, occupants or tenants of lands;
+
+(b) the nature and extent of the respective rights or interest of such persons and the conditions or liabilities if any, attaching thereto;
+
+(c) the rent, revenue or other amount, if any, payable by, or to any of such persons;
+
+(d) such other particulars as may be prescribed.
+
+(2) When in respect of any village the preparation of the record of rights referred to in sub-section (1) is completed; the fact of such completion shall be notified in the Andhra Pradesh Gazette [or the District Gazette] and in such other manner as may be prescribed.
+(3) Any person affected by an entry in such record of rights may, within a period of one year from date of the notification referred to in sub-section (2), apply, for rectification of the entry to such officer as may be prescribed. The said officer may, after such inquiry as may be prescribed, give his decision on such application and direct the rectification of the record of rights in accordance with such decision which shall subject to the provisions of Section 9, be final.
+[3A. Generation and Updation of Bhudhaar. - Bhudhaar shall be generated automatically as per the updated record of Rights under Section 3(1), Section 5 and Section 5-A and shall be automatically updated electronically.]
+[4. Acquisition of rights to be intimated. - (1) Any person acquiring by succession, survivorship, inheritance, partition, Government patta, decree of a Court or otherwise any right as owner, pattadar, mortgagee, occupant or tenant of a land and any person acquiring any right as occupant of a land by any other method shall intimate in writing his acquisition of such right, to the Mandal Revenue Officer within ninety days from the date of such acquisition, and the said Mandal Revenue Officer shall give or send a written acknowledgement of the receipt of such intimation to the person making it:
+Provided that where the person acquiring the right is a minor or otherwise disqualified, his guardian or other persons having charge of his property shall intimate the fact of such acquisition to the Mandal Revenue Officer.
+(2) Notwithstanding anything contained in the Registration Act, 1908 (Central Act 16 of 1908) every registering officer appointed under the Act and registering a document relating to a transaction in land, such as sale, mortgage, gift, lease or otherwise shall intimate the Mandal Revenue Officer of the Mandal in which the property is situate of such transaction.
+Explanation I. - The right mentioned above shall include a mortgage without possession and a right determined by Civil Court.
+Explanation II. - A person in whose favour a mortgage is discharged or extinguished, or a lease is determined, acquires a right within the meaning of this section.]
+5. [Amendment and updating of Record of Rights]. - (1) On receipt of intimation of the fact of acquisition of any right referred to in Section 4, the [Mandal Revenue Officer] shall determine as to whether, and if so in what manner, the record of rights may be amended in consequence therefor and shall carryout the amendment in the record of rights in accordance with such determination:
+Provided that no order refusing to make an amendment in accordance with the intimation shall be passed unless the person making such intimation has been given an opportunity of making his representation in that behalf.
+[Provided further that when the registration is approved by the Registering Officer, the name of the claimant shall be mutated in lieu of name of the executants on real time basis provisionally in electronically maintained data duly assigning notional subdivision number as may be prescribed pending enquiry by the Tahsildar;
+Provided also that the provisional mutation shall be confirmed by the Tahsildar electronically by following due procedure under sub-section (3) within thirty days of the registration. The aggrieved person may file an appeal to the Revenue Divisional Officer within a period of fifteen days from the date of order of the Tahsildar and decision of the appellate authority thereon shall subject to the provisions of Section 9 be, final.].
+(2) Where the [Mandal Revenue Officer] has reason to believe that an acquisition of any right of a description to which Section 4 applies has taken place and of which an intimation has not been made to him under that Section and where he considers that an amendment has to be effected in the record of rights, the [Mandal Revenue Officer] shall carry out the said amendment in the record of rights.
+(3)The [Mandal Revenue Officer] shall, before carrying out any amendment in the record of rights under sub-section (1) or sub-section (2) issue a notice in writing to all persons whose names are entered in the record of rights and who are interested in or affected by the amendment and to any other persons whom he has reason to believe to be interested therein or affected thereby to show cause within the period specified therein as to why the amendment should not be carried out. A copy of the amendment and the notice aforesaid shall also be published in such manner as may be prescribed. The [Mandal Revenue Officer] shall consider every objection made in that behalf and after making such enquiry as may be prescribed pass such order in relation thereto as he deems fit.
+(4) Every order passed under this section shall be communicated the person concerned.
+(5) Against every order of the [Mandal Revenue Officer] either making an amendment in the record of rights or refusing to make such an amendment, [an appeal shall lie to the Revenue Divisional Officer or such authority as may be prescribed], within a period of sixty days from the date of communication of the said order and the decision of the appellate authority thereon shall subject to the provisions of Section 9, be final.
+[(6) The Mandal Revenue Officer shall have the power to correct clerical errors, if any, in the Pass Books.]
+[5A. Regularisation of certain alienations or other transfers of lands. - (1) Notwithstanding anything contained in this Act, the Transfer of Property Act, 1882, the Registration Act, 1908 or any other law for the time being in force, [where a person is an occupant] by virtue of an alienation or transfer made or effected otherwise than by registered document, the alienee or the transferee may, within such period as may be prescribed, apply to the Mandal Revenue Officer for a certificate declaring that such alienation or transfer is valid.
+(2) On receipt of such application, the Mandal Revenue Officer shall after making such enquiry as may be prescribed require the alienee or the transferee to deposit in the office of the Mandal Revenue Officer an amount equal to the registration fees and the stamp duty that would have been payable had the alienation or transfer been effected by a registered document in accordance with the provisions of the Registration Act, 1908 as fixed by the registering officer on a reference made to him by the Mandal Revenue Officer on the basis of the value of the property arrived at in such manner as may be prescribed:
+Provided that the Mandal Revenue Officer shall not require the alienee or the transferee to deposit the amount under this sub-section unless he is satisfied that the alienation or transfer is not in contravention of the provisions of the Andhra Pradesh Land Reforms (Ceiling on Agricultural Holdings) Act, 1973, the Urban Land (Ceiling and Regulation) Act, 1976, the Andhra Pradesh Scheduled Areas Land Transfer Regulation, 1959 and the Andhra Pradesh Assigned Lands (Prohibition of Transfers) Act, 1977.
+(3) Nothing contained in sub-section (1) and sub-section (2) shall be deemed to validate any alienation where such alienation is in contravention of the provisions of the Andhra Pradesh Land Reforms (Ceiling on Agricultural Holdings) Act, 1973, the Urban Land (Ceiling and Regulation) Act, 1976, the Andhra Pradesh Scheduled Areas Land Transfer Regulation, 1959 and the Andhra Pradesh Assigned Lands (Prohibition of Transfers) Act, 1977.
+(4) The Mandal Revenue Officer on deposit of an amount specified in sub-section (2), shall issue a certificate to the alienee or the transferee declaring that the alienation or transfer is valid from the date of issue of certificate and such certificate shall, notwithstanding anything in the Registration Act, 1908 be evidence of such alienation or transfer as against the alienor or transferor or any person claiming interest under him.
+(5) The recording authority, shall on the production of the certificate issued under sub-section (2) make an entry in the pass book to the effect that the person whose name has been recorded as an occupant is the owner of the property.]
+[5B. Appeal. - (1) An Appeal shall lie against an order passed by the Tahsildar under sub-section (4) of Section 5-A, to the Revenue Divisional Officer, within thirty days of the date of communication of the order and the Revenue Divisional Officer shall, after due enquiry pass such order on the appeal as he deems fit.
+(2) The Revenue Divisional Officer may suo motu call for record of a case or proceedings from the Recording Authority and inspect it in order to satisfy himself that the order or decision passed or the proceedings taken is regular, legal and proper and make suitable order in that behalf:
+Provided that no order or decision affecting the rights of the parties shall be made unless the concerned parties are given a notice and hearing and such order, shall, subject to revision under Section 9, be final."]
+6. Presumption of correctness of entries in record of rights. - Every entry in record of rights shall be presumed to be true until the contrary is proved or until it is otherwise amended in accordance with the provisions of this Act. [Any mortgage or charge created earlier to a mortgage or charge created in favour of a credit agency shall lose its priority if it is not entered in the pattadar pass book.
+[6A. Pass Book holder to have entries of alienation etc., recorded in Pass Book:] - (1) Every Owner, Pattadar, Mortgagee, or tenant of any land shall apply for the issue of a pass book to the Mandal Revenue Officer on payment of such fee as may be prescribed. [The owner-pattadar shall apply for the issue of a title deed in addition to a pass-book.]
+[Provided that an occupant of an inam land is also eligible to apply for the issue of a [pass book and title deed] as an occupant:]
+[Provided further that] where no application is made under this sub-section the Mandal Revenue Officer may suo motu issue a Pass Book after following the procedure prescribed under sub-section (2) and collect the fee prescribed therefor.
+(2) On making such application, the Mandal Revenue Officer shall cause an enquiry to be made in such manner as may be prescribed and shall issue a [title deed and pass book] in accordance with the Record of Rights with such particulars and in such form as may be prescribed:
+Provided that no such [title deed and pass book] shall be issued by the Mandal Revenue Officer unless the Record of Rights have been brought Part date.
+(3) The entries in the [title deed and pass book] may be corrected either suo motu or on an application made to the Mandal Revenue Officer in the manner prescribed.
+(4) The Government may prescribe by rules the manner in which the [title deed and pass book] may be issued to all owners, pattadars, mortgagees or tenants and to such other person in accordance with the record of rights.
+[(5) The title deed issued under sub-section (1) and duly certified by the Mandal Revenue Officer, or such other authority as may be prescribed, shall be the title deed in respect of an owner-pattadar and it shall have the same evidentiary value with regard to the title for the purpose of creation of equitable mortgage under the provisions of the Transfer of Property Act, 1882 (Central Act 4 of 1882) as a document registered in accordance with the provisions of the Registration Act, 1908 (Central Act 16 of 1908) as under the law.]
+[6B. Pass book holder to have entries of alienation etc., recorded in pass book. - (1) Notwithstanding anything contained in the Registration Act, 1908 (Central Act 16 of 1908), every pass book holder presenting a document of title deed before a registering officer appointed under the said Act, on or after coming into force of the Andhra Pradesh Record of Rights in Land and Pattadar Pass Books (Amendment) Act, 1994 relating to a transaction in land, such as purchase or sale, mortgage, gift, lease or otherwise shall get the necessary entries in respect of such transaction recorded in the title deed and pass book by such registering officer.
+(2) Every pass book holder acquiring a right by succession, survivorship, inheritance, partition, Government patta, Court decree or otherwise shall get necessary entries in respect of such right recorded in the title deed and in the pass book by the Mandal Revenue Officer.]
+[6C. Recording of grant of loans and encumbrances etc., in the pass book and punishment or contravention thereof. - [(1 ) Every loan granted by any credit agency [on the security of the land, or crop], every encumbrance of land for the grant of a loan and every repayment of such loan shall be recorded in the pass book by the concerned officer or authority under attestation by a competent officer of the credit agency, and also made an entry of the discharge after the repayment of the loan:]
+[Provided that after three months from the date of publication of the notification under sub-section (2) of Section 3, [in the Andhra Pradesh Gazette or in the District Gazette], no loan shall be granted by any credit agency to a owner-pattadar without the production of the title deed and pass book and to others without the production of their pass books.]
+(2) Any [title deed and pass book] holder approaching a credit agency of a loan without getting necessary entries relating to alienations transfers of his land or any encumbrance or charge thereon subsequent to the issue of the [title deed and pass book], duly entered therein shall be deemed to have committed an offence under Section 420 of the Indian Penal Code and shall be punished for such offence.
+[(3) Every loan referred to in sub-section (1) shall be deemed to have been secured by a charge on the land or interests of the borrower. If any loan referred to in sub-sec. (1) remains un-recovered, then the credit agency shall request the Collector to recover the loan. On receipt of such request from a credit agency by the Collector, every loan referred to in sub-section (1) shall be liable to be recovered as arrears of land revenue by the Revenue Department and the amount recovered shall be paid to the credit agency. The recovery under the Revenue Recovery Act shall be without prejudice to other modes of recovery available to a credit agency.]]
+[6D. Registering authority to make entries in the Pass Book. - (1) It shall be obligatory on the part of any person having interest or right in land to produce the [title deed and pass book] before the registering authority appointed, under the Registration Act, 1908 along with the documents he proposes to get registered and it shall be obligatory on the part of such registering authority [to verify the Webland data maintained electronically and] to make entry of every transaction of sale, gift, purchase, mortgage, lease or exchange in such [title deed and pass book] at the appropriate place or places under his signature and official seal.]
+(2) Notwithstanding anything contained in the Registration Act, 1908, the registering authority shall not register any document relating to a transaction of the nature referred to in sub-section (1) without the production of the [title deed and pass book] by both the parties to the transaction:
+[Provided that in the case of landless person including a tenant or a mortgagee who becomes owner of land for the first time by purchase of land through a registered sale deed, the registering authority shall obtain a declaration from him in the form prescribed and send the same to Mandal Revenue Officer to enable him to issue a pattadar pass book in the owner category to such purchaser in the manner prescribed.]
+[6E. Assignment of Bhudhaar to parcels of land. - Every parcel of land to which the Act applies shall be assigned automatically a Bhudhaar, in such manner as may be prescribed:
+Provided that the number of the assigning permanent Bhudhaar defined under clause (1) shall taken into consideration the geographical location of the parcel of the land, its shape determined by the coordinates of its corner points, ownership as per the Record of Rights.
+Provided further that Bhudhaar Numbers both temporary and permanent from specially reserved series may be assigned to parcels of land belonging to Government, Central or State, Local Bodies or Community or land classified as Endowment or Wakf.
+6F. Generation of Bhudhaar Card. - (1) Bhudhaar Cards both temporary and permanent shall be generate in respect of all the parcels of the land to which Bhudhaars have been assigned and shall be made accessible online to the Pattadars or owners of such land, in such manner as may be prescribed.
+(2) Single Bhudhaar Card shall be issued for all the parcels of land held by the same pattadar or Owner taking the village as a unit for this purpose.
+(3) The Bhudhaar Card, including e-Bhudhaar Card and m-Bhudhaar Card will have the same legal value and status as a Pattadar Pass Book-cum-Title Deed would have in respect of such parcels of land, as at the time of its preparation.]
+7. Inspection and copies of the Record of Rights. - Subject to such rules as may be made in this behalf, the record of rights shall be open to the inspection of the public at reasonable hours of any charge and certified copies thereof or certified extracts therefrom [sha11 be given to all persons including the credit agencies] applying for the same on payment of such fees as may be prescribed.
+8. Bar of Suits. - (1) No suit shall lie against the Government or any officer of Government in respect of a claim to have an entry made or in relation to any entry made in any record of rights or to have any such entry omitted or amended.
+(2) If any person is aggrieved as to any rights of which he is in possession by an entry made in any record of rights he may institute a suit against any person denying or interested to deny his title to such right for declaration of his right under Chapter VI of the Specific Relief Act, 1963 (Central Act 47 of 1963) and the entry in the record of rights shall be amended in accordance with any such declaration.
+[9. Revision. - The Collector may either suo motu or on an application made to him, call for and examine the record of any Recording Authority, Mandal Revenue Officer or Revenue Divisional Officer under Sections 3, 5, 5A or 5B, in respect of any record of rights prepared or maintained to satisfy himself as to the regularity, correctness, legality or propriety of any decision taken, order passed or proceedings made in respect thereof and if it appears to the Collector that any such decision, order or proceedings should be modified, annulled or reversed or remitted for reconsideration, he may pass orders accordingly:
+Provided that no such order adversely affecting any person shall be passed under this Section unless he had an opportunity of making a representation.]
+10. Powers of recording and appellate authority. - [(1)] A recording authority or an appellate authority or any other officer shall, for the purpose of holding any enquiry under this Act, have the same powers as are vested in a Civil Court under the Code of Civil Procedure, 1908 (Central Act 5 of 1908) when trying a suit in respect of the following matters namely:
+(a) Summoning and enforcing the attendance of any person and examining him on oath;
+
+(b) Requiring the discovery and production of documents, and
+
+(c) Any other matter which may be prescribed.
+
+[(2) The provisions of Section 5 and Sections 12 to 24 of the Limitation Act, 1963 (Central Act 36 of 1963) shall apply for the purposes of extension and computation of the periods prescribed in Sections 3(3), 4(1), 5(5), 5A and 5B of this Act.]
+[10A. Corrections to be incorporated in village revenue records. - After the final publication of record of rights in the manner prescribed the Mandal Revenue Officer shall take action to incorporate the said particulars in the Village Revenue Records, subject to such amendments as may be necessary on appeal or revision, as the case may be.]
+11. Powers to make rules. - (1) The Government may, by notification and after previous publications, make rules for carrying out all or any of the purposes of this Act.
+(2) In particular, and without prejudice to the generality of the foregoing powers, such rules may provide for:
+(a) regulating the manner of preparation, compilation, maintenance and amendment of the record of rights and prescribing the forms in which they are to be compiled or maintained, the places at which and the officer by whom such record of rights have to be maintained and the officer by whom the said records are to be verified and amended;
+
+(b) the maintenance of other records, registers, accounts, maps and plans to be maintained for the purpose of this Act and the manner and forms in which they shall be prepared and maintained;
+
+[(bb)] regulating the manner of preparation, issue, maintenance and renewal of [Title deeds and pass books]
+
+(c) the inspection of the records, registers and documents maintained under this Act and the fees for the grant of copies thereof or extracts therefrom;
+
+(d) the procedure to be followed in making enquiries and hearing appeals under this Act;
+
+(e) the manner in which appeals shall be filed and the fees therefor;
+
+(f) the manner of service of any notice, intimation or other communication to be issued under this Act;
+
+(g) any other matter that is to be or may be prescribed under this Act.
+
+(3) Every rule made under this Act shall, immediately after it is made, be laid before each House of the State Legislature if it is in session and if it is not in session, in the session immediately following for a total period of fourteen days which may be comprised in one session or in two successive sessions and if, before the expiration of the session in which it is so laid or the session immediately following both Houses agree in making any modification in the rule or in the annulment of the rule, the rule shall from the date on which the modification or annulment is notified, have effect only in such modified form or shall stand annulled, as the case may be, so however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule.
+12. Act not to apply to Government Lands. - Nothing in this Act shall apply to the lands belonging to the State Government or Central Government.
+13. Repeal and Savings. - The Andhra Pradesh (Telangana Area) Record of Rights in Land Regulation, 1358 Fasli (Regulation No. LVIII of 1358 F.) and all standing orders and any other provisions of law relating to the record of rights of land as in force in the State are hereby repealed:
+Provided that the provisions of Sec. 8 of the Andhra Pradesh General Clauses Act, 1891 (Act 1 of 1891) shall be applicable in respect of the repeal of the said enactment, standing orders and other provisions of law, and Sections 8 and 18 of the said Act shall be applicable as if the said enactment, standing orders, provisions of law had been repealed and re-enacted by an Andhra Pradesh Act.
