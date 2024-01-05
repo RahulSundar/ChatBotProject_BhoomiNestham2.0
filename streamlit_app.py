@@ -45,9 +45,9 @@ from PIL import Image
 
 
 # ------------------DEFAULTS--------------------#
-#SECRET_TOKEN = os.environ["SECRET_TOKEN"]
-openai.api_key = "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"
-
+os.environ["OPENAI_API_KEY"] = SECRET_API_TOKEN
+SECRET_API_TOKEN = os.environ["SECRET_TOKEN"]
+openai.api_key = os.environ["OPENAI_API_KEY"]
 
 # -----------------------HELPER FUNCTIONS--------------------------#
 def image(src_as_string, **style):
