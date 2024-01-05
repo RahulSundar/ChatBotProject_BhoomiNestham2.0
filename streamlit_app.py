@@ -201,6 +201,3 @@ def footer():
         link("https://github.com/RahulSundar", "Bhoomi-Nestham-V2.0 @ Gen AI-Chat Bot"),
     ]
     layout(*myargs)
-
-
-footer()
