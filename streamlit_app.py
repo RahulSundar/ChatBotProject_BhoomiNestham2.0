@@ -153,7 +153,7 @@ index = indexgenerator(indexPath, documentsPath)
 # -------------------------CHATBOT ENGINE TO BE USED -------------#
 # ------------------------------------------------------------------------------#
 
-context_chat_engine = context_chatbot_engine(index)
+chat_engine = context_chatbot_engine(index)
 
 # ------------------------------------------------------------------------------#
 # -------------------------QUERY AND RESPONSE -------------#
@@ -171,7 +171,7 @@ for message in st.session_state.messages: # Display the prior chat messages
 if st.session_state.messages[-1]["role"] != "assistant":
     with st.chat_message("assistant"):
         with st.spinner("Thinking..."):
-            response = context_chatbot_engine.chat(prompt)
+            response = chat_engine.chat(prompt)
             st.write(response.response)
             message = {"role": "assistant", "content": response.response}
             st.session_state.messages.append(message) # Add response to message history
