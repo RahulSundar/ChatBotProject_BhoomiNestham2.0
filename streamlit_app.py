@@ -13,8 +13,8 @@ import tiktoken
 encoding = tiktoken.get_encoding("cl100k_base")
 encoding = tiktoken.encoding_for_model("gpt-3.5-turbo")
 # -------------IMPORTING CORE FUNCTIONALITIES OF THE SpeeKAR_BOT-------------
-from src.embeddinggenerator import *
-from src.chatbotfunctions import chatbot
+from embeddinggenerator import *
+from chatbotfunctions import chatbot
 
 # -------------------AUDIO FUNCTIONALITY-------------------------
 from mutagen.wave import WAVE
