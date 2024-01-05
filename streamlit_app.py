@@ -150,16 +150,31 @@ index = indexgenerator(indexPath, documentsPath)
 
 
 # ------------------------------------------------------------------------------#
-# -------------------------QUERY AUDIO INPUT - RETURNING TEXT QUERY-------------#
+# -------------------------CHATBOT ENGINE TO BE USED -------------#
 # ------------------------------------------------------------------------------#
 
+context_chat_engine = context_chatbot_engine(index)
+
+# ------------------------------------------------------------------------------#
+# -------------------------QUERY AND RESPONSE -------------#
+# ------------------------------------------------------------------------------#
+
+if prompt := st.chat_input("Your question"): # Prompt for user input and save to chat history
+    st.session_state.messages.append({"role": "user", "content": prompt})
+
+for message in st.session_state.messages: # Display the prior chat messages
+    with st.chat_message(message["role"]):
+        st.write(message["content"])
 
 
-if st.session_state.messages != []:
-    for message in st.session_state.messages[::-1]:
-        with st.chat_message(message["role"]):
-            st.write(message["content"])
-
+# If last message is not from assistant, generate a new response
+if st.session_state.messages[-1]["role"] != "assistant":
+    with st.chat_message("assistant"):
+        with st.spinner("Thinking..."):
+            response = context_chatbot_engine.chat(prompt)
+            st.write(response.response)
+            message = {"role": "assistant", "content": response.response}
+            st.session_state.messages.append(message) # Add response to message history
 
 
 
