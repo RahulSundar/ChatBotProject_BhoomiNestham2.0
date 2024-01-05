@@ -142,6 +142,13 @@ if "messages" not in st.session_state.keys(): # Initialize the chat message hist
     st.session_state.messages = [
         {"role": "assistant", "content": "Let me know about your grievance!"}
     ]
+    
+    
+indexPath = "data/index"
+documentsPath = "data/docs"
+index = indexgenerator(indexPath, documentsPath)
+
+
 # ------------------------------------------------------------------------------#
 # -------------------------QUERY AUDIO INPUT - RETURNING TEXT QUERY-------------#
 # ------------------------------------------------------------------------------#
@@ -152,6 +159,9 @@ if st.session_state.messages != []:
     for message in st.session_state.messages[::-1]:
         with st.chat_message(message["role"]):
             st.write(message["content"])
+
+
+
 
 
 
