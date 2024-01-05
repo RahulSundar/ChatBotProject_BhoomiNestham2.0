@@ -10,7 +10,7 @@ from llama_index.memory import ChatMemoryBuffer
 from embeddinggenerator import *
 
 os.environ["OPENAI_API_KEY"] = SECRET_API_TOKEN
-
+SECRET_API_TOKEN = os.environ["SECRET_TOKEN"]
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 def react_chatbot_engine(index):
