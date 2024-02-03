@@ -9,9 +9,9 @@ from llama_index.memory import ChatMemoryBuffer
 
 from embeddinggenerator import *
 
-SECRET_API_TOKEN = os.environ["SECRET_API_TOKEN"]
-openai.api_key = SECRET_API_TOKEN
-
+#SECRET_API_TOKEN = os.environ["SECRET_API_TOKEN"]
+#openai.api_key = SECRET_API_TOKEN
+openai.api_key="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"
 def react_chatbot_engine(index):
 
     #memory = ChatMemoryBuffer.from_defaults(token_limit=1500)
@@ -66,7 +66,7 @@ def context_chatbot_engine(index):
     memory=memory,
     system_prompt=(
         "You are a helpful and friendly chatbot who addresses Land disputes and related grievances, able to have normal interactions, as well as talk"
-        " about all the acts, procedures, and solutions related to land disputes in Andhra Pradesh."
+        " about all the acts, procedures, and solutions related to land disputes in Andhra Pradesh. If you don't have some information, then say that you don't know. Do not generate fake answers!"
         ),
     )
     return chat_engine
