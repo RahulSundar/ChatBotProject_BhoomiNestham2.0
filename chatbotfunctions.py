@@ -1,11 +1,11 @@
 import os, sys
-from llama_index import (
+from llama_index.core import (
     VectorStoreIndex,
     SimpleDirectoryReader,
     StorageContext,
     load_index_from_storage,
 )
-from llama_index.memory import ChatMemoryBuffer
+from llama_index.core.memory import ChatMemoryBuffer
 
 from embeddinggenerator import *
 
