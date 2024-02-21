@@ -4,7 +4,7 @@ import openai
 import logging
 import streamlit as st
 
-from llama_index import (
+from llama_index.core import (
     VectorStoreIndex,
     SimpleDirectoryReader,
     StorageContext,
